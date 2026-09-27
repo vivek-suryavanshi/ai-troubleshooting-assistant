@@ -4,7 +4,7 @@
 - Python 3.8
 - pip
 
-## Installation
-run pip install
+## Installation     
 clone the repo
 cd into folder
+run pip install
