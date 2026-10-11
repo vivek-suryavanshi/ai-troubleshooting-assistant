@@ -2,3 +2,16 @@
 __pycache__/
 *.pyc
 .venv/
+# Session and notes files
+CLAUDE.md
+*.txt
+*.md.bak
+session-*.md
+conversation-*.txt
+
+# Environment
+.env
+.env.*
+
+# uv
+.uv/
